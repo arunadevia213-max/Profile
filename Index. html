@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+</head>
+<body>
+  <h1>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nantha Tech Shopping Cort</title>
+
+    <!-- Bootstrap 5 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+    <!-- AOS Animation -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
+    <style>
+        body {
+            font-family: "Poppins", sans-serif;
+        }
+        header {
+            background: url('https://images.unsplash.com/photo-1542834369-f10ebf06d3cb') no-repeat center/cover;
+            height: 90vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+        }
+        header h1 {
+            font-size: 4rem;
+            font-weight: 700;
+        }
+        .section-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        footer {
+            background: #111;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#">Nantha Tech Shopping Cort</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navMenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#service">Service</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- HOME SECTION -->
+    <header id="home" data-aos="fade-up">
+        <h1>Welcome to Nantha Tech Shopping Cort</h1>
+        <p class="fs-4">Your Trusted Partner in Smart Shopping</p>
+    </header>
+    Hello, World!
+  </h1>
+  
+</body>
+</html>
